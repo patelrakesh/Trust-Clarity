@@ -15,7 +15,7 @@ TrustClarity Store is a B2B eCommerce platform built to simplify the buying and 
 
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:**  Fluree (primary) MongoDB
 - **Integrations:** Stripe, Algolia, Cloudinary, AWS
 
 ##  Getting Started
