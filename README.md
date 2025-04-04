@@ -2,7 +2,7 @@
 
 TrustClarity Store is a B2B eCommerce platform built to simplify the buying and selling of excess inventory. This web application provides a seamless experience for both buyers and sellers, with secure checkout, inventory management, and a powerful product search system.
 
-## 🚀 Features
+##  Features
 
 - Product listing and search with advanced filters
 - Secure checkout with Stripe integration
@@ -11,14 +11,14 @@ TrustClarity Store is a B2B eCommerce platform built to simplify the buying and 
 - Mobile-friendly responsive UI
 - SEO-optimized product pages
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Integrations:** Stripe, Algolia, Cloudinary, AWS
 
-## 📦 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
